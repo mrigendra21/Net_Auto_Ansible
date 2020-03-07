@@ -1,9 +1,18 @@
 In this file a brief description is given for each sample code.
 
 Campus1.yml
+###########
+In this sample code, we have just one playbook with just one task. Under single task, we are executing multiple CLIs.
 
 Campus2.yml
+###########
+In this sample code, we again have just one playbook with 2 tasks. Under each task we are doing multiple CLI configs.
 
 Campus3.yml
+###########
+This one is little interesting code. Here we have one playbook with multiple task. In one of the task, the iteration is being used.
+Iteration in ansible is very much like disctionary key.value pair in python. We manually configure the dictionary data base with required items under each dictionary. Then we iterate through each dictionary from the data base and do the config.
 
 Campus4.yml
+###########
+in this sample code, we have two playbooks. First playbook is being used to configure all the "Access-layer" devices and second playbook is being used to configure all the "Core-Layer" devices.
