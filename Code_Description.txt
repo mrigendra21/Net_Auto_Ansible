@@ -16,3 +16,4 @@ Iteration in ansible is very much like disctionary key.value pair in python. We 
 Campus4.yml
 ###########
 in this sample code, we have two playbooks. First playbook is being used to configure all the "Access-layer" devices and second playbook is being used to configure all the "Core-Layer" devices.
+
