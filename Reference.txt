@@ -1,0 +1,8 @@
+Here i am going to maintain some good document/url for ansible quick reference.
+
+For all network modules reference document:
+https://docs.ansible.com/ansible/latest/modules/list_of_network_modules.html
+
+For quick hands-on on ansible with GNS3 labs:
+"Ansible for Network Engineers: Quick Start GNS3 & Ansible" by David Bombal
+
