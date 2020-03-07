@@ -1,0 +1,7 @@
+####################################################
+This is a disclaimer file. Please read it carefully.
+####################################################
+
+Availble codes are absolutely for the study and education purpose. It is not recommended to use this code as it is in the production. If done so, please do it at your own discretion.
+
+Thank you!
