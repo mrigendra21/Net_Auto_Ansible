@@ -10,7 +10,7 @@ Once the installation is done, then you are all set to play with Ansible.
 
 There are two ways to run the command from Ansible. Either it can be run as an "ad-hoc" command or can be run as "ansible-playbook".
 
-There are the important file which needs to be created to run the ansible-playbook.
+There are three important file which needs to be created to run the ansible-playbook.
 1. Inventory file >> this file contains the name of the devices on which you want to execute the commands.
 2. Ansible.cfg file >> this file contains the local environment which specifies some specific parameters, like inventory file location, host-key-check validation etc.
 3. YAML file  >> This is the playbook file under which you define the tasks that you want to execute. It can be config commands or output commands.
