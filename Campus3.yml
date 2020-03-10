@@ -6,8 +6,8 @@
 
   vars:
     cli:
-      username: david
-      password: cisco
+      username: mripatel
+      password: C!sco123
 
   tasks:
     - name: Global config settings
